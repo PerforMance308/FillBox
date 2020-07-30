@@ -7,4 +7,4 @@ Run the application by typing
 ```
 go run main.go
 ```
-The detailed step will be prented.
+The detailed step will be pirnted.
